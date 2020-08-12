@@ -1,0 +1,35 @@
+@charset "UTF-8";
+#image
+{
+	float: left;
+	width: 30%;
+}
+#info
+{
+	float: right;
+	width: 50%;
+}
+#mainText
+{
+	float: clear;
+}
+#comment
+{
+		
+}
+#mainComment
+{
+	width: 1000px;
+}
+#submit
+{
+	
+}
+.comment
+{
+	width: 100%;
+}
+#like
+{
+	font-size: 150%;
+}

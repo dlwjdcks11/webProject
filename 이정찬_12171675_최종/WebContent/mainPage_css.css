@@ -1,0 +1,15 @@
+@charset "UTF-8";
+#search
+{
+	position: absolute;
+	right: 0;
+}
+.post
+{
+	margin: 30px;
+}
+.post table
+{   
+	width: 100%;
+	height: 230px;
+}
